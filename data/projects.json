@@ -1,0 +1,29 @@
+[
+  {
+    "name" : "✔️ Alzheimer’s Disease Classifier Web App",
+    "description" : "Developed and deployed a deep learning model to classify brain MRI images to predict the stage of     Alzheimer’s Disease. The model has been trained to provide an accuracy rate of 98%, and the web app was implemented by following the full cycle of full-stack data science solution deployment.",
+    "repository_link" : "https://github.com/Amber-MiYoung/Alzheimers-disease-Classifier",
+    "type" : "Deep Learning"
+  },
+  {
+
+    "name" : "✔️ OCR Medical Reports",
+    "description" : "Implemented the automated specific data recognition from electronic medical reports by segmenting and training the fields of interest using Yolo v5 deep learning model and Tesseract OCR technologies.",
+    "repository_link" : "https://github.com/Amber-MiYoung/Project_OCR_Flask",
+    "type" : "Deep Learning"
+  },
+  {
+
+    "name" : "✔️ Fake News Detection",
+    "description" : "Developed a classification model integrating natural language processing techniques, machine learning algorithms, and deep learning to classify fake news articles using the Kaggle dataset.",
+    "repository_link" : "https://github.com/Amber-MiYoung/Fake-News",
+    "type" : "Natural Language Processing"
+  },
+  {
+
+    "name" : "✔️ Deriving and Forecasting AQI (Air Quality Index)",
+    "description" : "Built a predictive model to derive the Air Quality Index (AQI) and show the correlation between AQI and the different independent features using various machine learning algorithms, data collection, feature engineering, scaling, over-sampling, and model selection by benchmarking machine learning algorithms with pipeline and hyperparameter tuning.",
+    "repository_link" : "https://github.com/Amber-MiYoung/Deriving-and-Forecasting-AQI-Air-Quality-Index-",
+    "type" : "Machine Learning"
+  }
+]
