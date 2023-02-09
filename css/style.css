@@ -108,7 +108,7 @@ footer {
   display: grid;
 
   margin: 0px;
-  grid-template-columns: 1fr 1.75fr;
+  grid-template-columns: 1fr 1fr;
   grid-gap: 0px;
 
   border-bottom: 0;
